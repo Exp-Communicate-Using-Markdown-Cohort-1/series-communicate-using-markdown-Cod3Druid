@@ -5,3 +5,6 @@
 ```
 This is example of nice code block.
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
